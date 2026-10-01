@@ -1,0 +1,11 @@
+{
+  "org": "poolsideai",
+  "repo": "acp-go-sdk",
+  "versions": [
+    {
+      "commit": "0845a3bb9eddda5bfc22a94dd3598c90cb842451",
+      "tag": "main",
+      "parsed_at": "2026-10-01T07:07:21.261406+00:00"
+    }
+  ]
+}
