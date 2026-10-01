@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/poolsideai/acp-go-sdk/commit/0845a3bb9eddda5bfc22a94dd3598c90cb842451",
       "git:hexsha": "0845a3bb9eddda5bfc22a94dd3598c90cb842451",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
