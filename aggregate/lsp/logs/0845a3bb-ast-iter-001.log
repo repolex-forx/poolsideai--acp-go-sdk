@@ -1,0 +1,7 @@
+[2026-10-01T06:58:50Z] === AST ITERATION 1 START | repo=poolsideai/acp-go-sdk sha=0845a3bb ===
+[2026-10-01T06:58:50Z] [iter=1] PHASE START: ast repo=poolsideai/acp-go-sdk sha=0845a3bb
+[2026-10-01T06:58:50Z] [iter=1] Building AST aggregate chunks
+[2026-10-01T07:00:04Z] [iter=1] AST chunks built count=1 triples=798814
+[2026-10-01T07:00:04Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/0845a3bb9eddda5bfc22a94dd3598c90cb842451/.complete
+[2026-10-01T07:00:04Z] [iter=1] PHASE END: ast elapsed_s=74 elapsed_min=1.2
+[2026-10-01T07:00:04Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
